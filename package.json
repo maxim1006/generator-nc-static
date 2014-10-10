@@ -1,22 +1,26 @@
 {
-  "name": "generator-nc-static",
-  "version": "0.0.1",
-  "description": "Deployment of the static grunt project",
-  "keywords": [
-    "nc-static"
-  ],
-  "author": {
-    "name": "Maxim Maximov",
-    "email": "maxim1006@list.ru",
-    "url": "https://github.com/maxim1006"
-  },
-  "main": "app/index.js",
-  "repository": "maxim1006/generator-nc-static",
-  "dependencies": {
-    "yeoman-generator": "^0.17.1"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "licenses": "MIT"
+    "name": "generator-nc-static",
+    "version": "0.1.6",
+    "description": "Deployment of the static grunt project",
+    "keywords": [
+        "nc-static", "generator-nc-static"
+    ],
+    "author": {
+        "name": "Maxim Maximov",
+        "email": "maxim1006@list.ru",
+        "url": "https://github.com/maxim1006"
+    },
+    "main": "app/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxim1006/generator-nc-static.git"
+    },
+    "dependencies": {
+        "yeoman-generator": "^0.17.1"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "licenses": "MIT"
 }
+
