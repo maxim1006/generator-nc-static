@@ -36,7 +36,7 @@ module.exports = function(grunt) {
             dist: {
                 src: ['<%%= paths.less %>partials/reset.less',
                     '<%%= paths.less %>partials/mixins.less',
-                    '<%= paths.less %>blocks/*.less',
+                    '<%%= paths.less %>blocks/*.less',
                     '<%%= paths.less %>blocks/**/*.less'],
                 dest: '<%%= paths.less %>__main.less'
             }
