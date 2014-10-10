@@ -1,6 +1,6 @@
-##Yeoman generator
+#Yeoman generator for a frontend developer
 
-##usage
+###usage
 
 You have to have pre installed <b>"Node.js", "Bower", "Yeoman"</b>
 
@@ -15,5 +15,5 @@ Type:<br/><br/>
 2) yo nc-static<br/>
 3) grunt
 
-## License
+### License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
